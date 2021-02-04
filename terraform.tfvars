@@ -1,2 +1,2 @@
-gcp_project     = "nodal-shift-265012"
-credentials     = "credentials.json"
+gcp_project     = "storm-breakers"
+credentials     = "creds.json"
